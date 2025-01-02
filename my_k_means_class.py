@@ -18,7 +18,7 @@ class KMeans:
             self.centroid = self.move_centroid(x,cluster_group)
             if (old_centroid==self.centroid).all():
                 break
-                
+
         return cluster_group
 
     def assign_clusters(self,x):
