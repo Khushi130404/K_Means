@@ -31,3 +31,19 @@ This repository, K_Means, contains implementations and visualizations of the K-M
 - Detailed visualizations of clustering results in both 2D and 3D.
 - Use of various Python libraries such as Matplotlib, Seaborn, and Plotly for dynamic and interactive plots.
 - Comparison of clustering outcomes with different initial centroids and number of clusters.
+
+## 🛠️ Technologies Used
+
+- Python: Core language used for all implementations.
+
+- Jupyter Notebooks: Interactive environment for coding and visualization.
+
+- Matplotlib: For creating 2D and 3D plots.
+
+- Seaborn: For enhancing visualizations.
+
+- Plotly: For interactive 3D plots.
+
+- NumPy: For efficient numerical computations.
+
+- scikit-learn: For using built-in K-Means functionality and data preprocessing.
